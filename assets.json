@@ -1,0 +1,143 @@
+{
+  "aircraft": [
+    { 
+      "name": "HAL Tejas Mk1", 
+      "type": "Light Combat Aircraft", 
+      "branch": "Indian Air Force",
+      "class": "Delta wing, Multi-role",
+      "image": "/public/haltejas.jpeg",
+      "base_camp": "Sulur Air Force Station",
+      "available_units": 16
+    },
+    { 
+      "name": "Sukhoi Su-30MKI", 
+      "type": "Air Superiority Fighter", 
+      "branch": "Indian Air Force",
+      "class": "Heavy multirole fighter",
+      "image": "/public/sukhoi.jpeg",
+      "base_camp": "Tezpur Air Force Station",
+      "available_units": 24
+    },
+    { 
+      "name": "Dassault Rafale", 
+      "type": "Multirole Fighter", 
+      "branch": "Indian Air Force",
+      "class": "Twin-engine, Canard delta",
+      "image": "/public/dassault.jpeg",
+      "base_camp": "Ambala Air Force Station",
+      "available_units": 18
+    },
+    { 
+      "name": "Boeing P-8I Neptune", 
+      "type": "Maritime Patrol Aircraft", 
+      "branch": "Indian Navy",
+      "class": "ASW & Maritime Patrol",
+      "image": "/public/boeing.jpeg",
+      "base_camp": "INS Rajali (Arakkonam)",
+      "available_units": 12
+    },
+    { 
+      "name": "HAL Prachand", 
+      "type": "Light Combat Helicopter", 
+      "branch": "Tri-Service",
+      "class": "Attack Helicopter",
+      "image": "/public/prachand.jpeg",
+      "base_camp": "Jodhpur Air Force Station",
+      "available_units": 10
+    }
+  ],
+  "naval_ships": [
+    { 
+      "name": "INS Vikramaditya", 
+      "type": "Aircraft Carrier", 
+      "branch": "Indian Navy",
+      "class": "Modified Kiev-class",
+      "image": "/public/vikramaditya.jpg",
+      "base_camp": "INS Kadamba (Karwar)",
+      "available_units": 1
+    },
+    { 
+      "name": "INS Vikrant", 
+      "type": "Aircraft Carrier", 
+      "branch": "Indian Navy",
+      "class": "Vikrant-class",
+      "image": "/public/vikrant.jpg",
+      "base_camp": "Cochin Shipyard / Southern Naval Command",
+      "available_units": 1
+    },
+    { 
+      "name": "INS Visakhapatnam", 
+      "type": "Guided Missile Destroyer", 
+      "branch": "Indian Navy",
+      "class": "Visakhapatnam-class (Project 15B)",
+      "image": "/public/visakhapatnam.jpg",
+      "base_camp": "Western Naval Command (Mumbai)",
+      "available_units": 4
+    },
+    { 
+      "name": "INS Arihant", 
+      "type": "SSBN (Nuclear Submarine)", 
+      "branch": "Indian Navy",
+      "class": "Arihant-class",
+      "image": "/public/arihant.jpg",
+      "base_camp": "INS Virbahu (Visakhapatnam)",
+      "available_units": 2
+    },
+    { 
+      "name": "INS Kalvari", 
+      "type": "Attack Submarine", 
+      "branch": "Indian Navy",
+      "class": "Scorpène-class",
+      "image": "/public/kalvari.avif",
+      "base_camp": "Naval Dockyard (Mumbai)",
+      "available_units": 6
+    }
+  ],
+  "ground_forces": [
+    { 
+      "name": "T-90S Bhishma", 
+      "type": "Main Battle Tank", 
+      "branch": "Indian Army",
+      "class": "Third-generation MBT",
+      "image": "/public/bhishma.jpg",
+      "base_camp": "Armoured Corps Centre (Ahmednagar)",
+      "available_units": 45
+    },
+    { 
+      "name": "Arjun MBT Mk-1A", 
+      "type": "Main Battle Tank", 
+      "branch": "Indian Army",
+      "class": "Third-generation MBT",
+      "image": "/public/arjun.jpeg",
+      "base_camp": "Desert Corps Cantonment (Jaisalmer)",
+      "available_units": 30
+    },
+    { 
+      "name": "Pinaka MBRL", 
+      "type": "Multi-Barrel Rocket Launcher", 
+      "branch": "Indian Army",
+      "class": "All-weather artillery system",
+      "image": "/public/pinaka.png",
+      "base_camp": "Artillery Centre (Nashik)",
+      "available_units": 20
+    },
+    { 
+      "name": "BrahMos Missile System", 
+      "type": "Supersonic Cruise Missile", 
+      "branch": "Tri-Service",
+      "class": "Medium-range Ramjet",
+      "image": "/public/brahmos.jpeg",
+      "base_camp": "Northern Command (Udhampur)",
+      "available_units": 15
+    },
+    { 
+      "name": "S-400 Triumf", 
+      "type": "Surface-to-Air Missile", 
+      "branch": "Indian Air Force",
+      "class": "Mobile interceptor platform",
+      "image": "/public/triumf.jpeg",
+      "base_camp": "Western Air Command (Pathankot)",
+      "available_units": 5
+    }
+  ]
+}
