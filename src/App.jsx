@@ -33,7 +33,7 @@ export default function App() {
   const fallbackImage = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400"><rect width="100%" height="100%" fill="%23e2e8f0"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="32" font-weight="bold" fill="%2394a3b8">Image Not Found</text></svg>`;
 
   useEffect(() => {
-    fetch('/assets.json')
+    fetch(`${import.meta.env.BASE_URL}assets.json`)
       .then((res) => {
         if (!res.ok) throw new Error('Failed to load assets.json');
         return res.json();
