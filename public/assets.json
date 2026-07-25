@@ -5,7 +5,7 @@
       "type": "Light Combat Aircraft", 
       "branch": "Indian Air Force",
       "class": "Delta wing, Multi-role",
-      "image": "haltejas.jpeg",
+      "image": "/public/haltejas.jpeg",
       "base_camp": "Sulur Air Force Station",
       "available_units": 16
     },
@@ -14,7 +14,7 @@
       "type": "Air Superiority Fighter", 
       "branch": "Indian Air Force",
       "class": "Heavy multirole fighter",
-      "image": "sukhoi.jpeg",
+      "image": "/public/sukhoi.jpeg",
       "base_camp": "Tezpur Air Force Station",
       "available_units": 24
     },
@@ -23,7 +23,7 @@
       "type": "Multirole Fighter", 
       "branch": "Indian Air Force",
       "class": "Twin-engine, Canard delta",
-      "image": "dassault.jpeg",
+      "image": "/public/dassault.jpeg",
       "base_camp": "Ambala Air Force Station",
       "available_units": 18
     },
@@ -32,7 +32,7 @@
       "type": "Maritime Patrol Aircraft", 
       "branch": "Indian Navy",
       "class": "ASW & Maritime Patrol",
-      "image": "boeing.jpeg",
+      "image": "/public/boeing.jpeg",
       "base_camp": "INS Rajali (Arakkonam)",
       "available_units": 12
     },
@@ -41,7 +41,7 @@
       "type": "Light Combat Helicopter", 
       "branch": "Tri-Service",
       "class": "Attack Helicopter",
-      "image": "prachand.jpeg",
+      "image": "/public/prachand.jpeg",
       "base_camp": "Jodhpur Air Force Station",
       "available_units": 10
     }
@@ -52,7 +52,7 @@
       "type": "Aircraft Carrier", 
       "branch": "Indian Navy",
       "class": "Modified Kiev-class",
-      "image": "vikramaditya.jpg",
+      "image": "/public/vikramaditya.jpg",
       "base_camp": "INS Kadamba (Karwar)",
       "available_units": 1
     },
@@ -61,7 +61,7 @@
       "type": "Aircraft Carrier", 
       "branch": "Indian Navy",
       "class": "Vikrant-class",
-      "image": "vikrant.jpg",
+      "image": "/public/vikrant.jpg",
       "base_camp": "Cochin Shipyard / Southern Naval Command",
       "available_units": 1
     },
@@ -70,7 +70,7 @@
       "type": "Guided Missile Destroyer", 
       "branch": "Indian Navy",
       "class": "Visakhapatnam-class (Project 15B)",
-      "image": "visakhapatnam.jpg",
+      "image": "/public/visakhapatnam.jpg",
       "base_camp": "Western Naval Command (Mumbai)",
       "available_units": 4
     },
@@ -79,7 +79,7 @@
       "type": "SSBN (Nuclear Submarine)", 
       "branch": "Indian Navy",
       "class": "Arihant-class",
-      "image": "arihant.jpg",
+      "image": "/public/arihant.jpg",
       "base_camp": "INS Virbahu (Visakhapatnam)",
       "available_units": 2
     },
@@ -88,7 +88,7 @@
       "type": "Attack Submarine", 
       "branch": "Indian Navy",
       "class": "Scorpène-class",
-      "image": "kalvari.avif",
+      "image": "/public/kalvari.avif",
       "base_camp": "Naval Dockyard (Mumbai)",
       "available_units": 6
     }
@@ -99,7 +99,7 @@
       "type": "Main Battle Tank", 
       "branch": "Indian Army",
       "class": "Third-generation MBT",
-      "image": "bhishma.jpg",
+      "image": "/public/bhishma.jpg",
       "base_camp": "Armoured Corps Centre (Ahmednagar)",
       "available_units": 45
     },
@@ -108,7 +108,7 @@
       "type": "Main Battle Tank", 
       "branch": "Indian Army",
       "class": "Third-generation MBT",
-      "image": "arjun.jpeg",
+      "image": "/public/arjun.jpeg",
       "base_camp": "Desert Corps Cantonment (Jaisalmer)",
       "available_units": 30
     },
@@ -117,7 +117,7 @@
       "type": "Multi-Barrel Rocket Launcher", 
       "branch": "Indian Army",
       "class": "All-weather artillery system",
-      "image": "pinaka.png",
+      "image": "/public/pinaka.png",
       "base_camp": "Artillery Centre (Nashik)",
       "available_units": 20
     },
@@ -126,7 +126,7 @@
       "type": "Supersonic Cruise Missile", 
       "branch": "Tri-Service",
       "class": "Medium-range Ramjet",
-      "image": "brahmos.jpeg",
+      "image": "/public/brahmos.jpeg",
       "base_camp": "Northern Command (Udhampur)",
       "available_units": 15
     },
@@ -135,7 +135,7 @@
       "type": "Surface-to-Air Missile", 
       "branch": "Indian Air Force",
       "class": "Mobile interceptor platform",
-      "image": "triumf.jpeg",
+      "image": "/public/triumf.jpeg",
       "base_camp": "Western Air Command (Pathankot)",
       "available_units": 5
     }
